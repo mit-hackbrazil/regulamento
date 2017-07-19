@@ -1,7 +1,8 @@
 # Summary
 
-* [Introduction](README.md)
-* [Propriedade intelectual](teste.md)
+* [Introdução](intro.md)
+* [Timeline](timeline.md)
+* [Plataforma](plataforma.md)
+* [Propriedade intelectual](propriedade-intelectual.md)
 * [Direitos Autorais](direitos.md)
 * [Criterios de Julgamento](criterios-de-julgamento.md)
-

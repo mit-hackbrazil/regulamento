@@ -1,6 +1,5 @@
 # Summary
 
-* [Introdução](intro.md)
 * [Timeline](timeline.md)
 * [Plataforma](plataforma.md)
 * [Propriedade intelectual](propriedade-intelectual.md)

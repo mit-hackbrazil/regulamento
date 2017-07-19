@@ -1,8 +1,7 @@
 {
-    "plugins": ["youtube"],
     "pluginsConfig": {
         "fontsettings": {
-            "theme": "night", 
+            "theme": "night",
             "family": "sans",
             "size": 2
         }

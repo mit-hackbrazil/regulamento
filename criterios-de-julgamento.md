@@ -20,7 +20,3 @@
 **
 
 **Ao submeter a inscrição para a HackBrazil, o\(s\) incrito\(s\) isentam a HackBrazil, os organizadores, patrocinadores do evento, afiliados, diretores, representantes, agentes e conselheiros de toda e qualquer responsabilidade por quaisquer ressarcimentos, custos, lesões, perdas, ou danos de qualquer natureza que decorram, ou possam estar conectadas, com qualquer decisão dos juízes.**
-
-  
-
-

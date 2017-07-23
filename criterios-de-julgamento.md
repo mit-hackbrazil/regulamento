@@ -1,15 +1,21 @@
 # CRITÉRIOS DE AVALIAÇÃO 
 
-Os critérios de avaliação da HackBrazil foram desenvolvidos para selecionar projetos que farão a diferença no Brasil e pessoas que são capazes de tirar essas ideias do papel.
+Os critérios de avaliação da HackBrazil foram desenvolvidos para selecionar projetos que farão a diferença no Brasil e times que são capazes de tirar essas ideias do papel.
+
+| Fase          | Projetos     |
+| ------------- | ------------- |
+|               | Impacto | Inovação | Desafiador | Viabilidade | Demo | 
+
 
 ## Critérios para projetos
 
-| Critério  | Descrição |
-| ------------- | ------------- |
-| Impacto  | Qual o tamanho do impacto que esse projeto terá na realidade brasileira? Ele soluciona um problema que afeta um grande número de pessoas ou uma comunidade específica? |
-| Originalidade  | Content Cell  |
-
-
+| Critério      | Descrição     |
+| :-----------: | ------------- |
+| Impacto       | ** Qual o tamanho do impacto do projeto na realidade brasileira? ** Ele soluciona um problema que afeta um grande número de pessoas ou uma comunidade específica? |
+| Inovação      | ** Quão inovador é o projeto? ** Ele aborda um problema brasileiro de maneira diferente ou que não possui soluções no mercado? |
+| Desafiador    | ** Quão desafiador é projeto? ** Ele requer competência técnica ou faz uso de tecnologias interessantes?
+| Viabilidade   | ** Quão viável é o projeto na realidade brasileira? ** Ele é comercialmente viável podendo ser replicado em larga escala?
+| Demo          | ** A demo do projeto funciona e é usável no estado atual? **
 
 
 ## Critérios para times

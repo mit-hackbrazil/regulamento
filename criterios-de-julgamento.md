@@ -1,12 +1,7 @@
 # CRITÉRIOS DE AVALIAÇÃO 
 
-Durante todas as fases da HackBrazil projetos e ideias serão avaliados usando três critérios: inovação, impacto 
-Os serão avaliados pelo time de organização da HackBrazil de acordo com os seguintes critérios:
-
-* [Inovação](inovacao)
-* [Impacto][impacto]
-* [Viabilidade][viabilidade]
-* [Capacitação][capacitação]
+Os critérios de avaliação da HackBrazil foram desenvolvidos para selecionar projetos que farão a diferença no Brasil e pessoas que são capazes de tirar essas ideias do papel.
+Durante todas as fases da HackBrazil projetos e ideias serão avaliados usando três critérios: [inovação](inovacao), [impacto](impacto) e [viabilidade](viabilidade).
 
 # Descrição dos critérios
 

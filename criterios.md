@@ -9,7 +9,7 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 #### Qualidade do projeto {#proj}
 
 | Fase 				| Impacto 	| Inovação 	| Viabilidade 	| Demo 	|
-| ----------------- | ------- 	| -------- 	| ----------- 	| ----  |
+| ----------------- | :-----: 	| :------: 	| :---------: 	| :--:  |
 | Ideação			| ✔ 		| ✔ 		| ✔ 			| 		|
 | Desenvolvimento 	| ✔ 		| ✔ 		| ✔ 			| ✔ 	|
 | Pitch				| ✔ 		| ✔ 		| ✔ 			| ✔ 	|
@@ -17,7 +17,7 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 #### Capacidade de execução {#team}
 
 | Fase 				| Competência 	| Empenho 	| Evolução 		| Comunicação 	|
-| -----------------	| ----------- 	| ------- 	| --------	 	| ------------ 	|
+| -----------------	| :---------: 	| :-----: 	| :------:	 	| :----------: 	|
 | Ideação			| ✔ 			|   		|   			| 				|
 | Desenvolvimento 	| ✔ 			| ✔ 		| ✔ 			| ✔ 			|
 | Pitch				|   			|   		|   			| ✔				|
@@ -25,7 +25,7 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 ## Descrição dos critérios
 
 | Critério 		| Descrição |
-| :-----------: | ------------- |
+| -----------	| ------------- |
 | Impacto 		| ** Qual o tamanho do impacto do projeto na realidade brasileira? ** Ele soluciona um problema que afeta um grande número de pessoas ou uma comunidade específica? |
 | Inovação 		| ** Quão inovador é o projeto? ** Ele aborda um problema brasileiro de maneira diferente ou que não possui soluções no mercado? |
 | Viabilidade 	| ** Quão viável é o projeto na realidade brasileira? ** Ele é comercialmente viável podendo ser replicado em larga escala? |

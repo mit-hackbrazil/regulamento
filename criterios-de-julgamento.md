@@ -1,29 +1,21 @@
 # CRITÉRIOS DE AVALIAÇÃO 
 
 Os critérios de avaliação da HackBrazil foram desenvolvidos para selecionar projetos que farão a diferença no Brasil e pessoas que são capazes de tirar essas ideias do papel.
-Durante todas as fases da HackBrazil projetos e ideias serão avaliados usando três critérios: [inovação](inovacao), [impacto](impacto) e [viabilidade](viabilidade).
 
-# Descrição dos critérios
+## Critérios para projetos
 
-## Inovação {#inovacao}
+| Critério  | Descrição |
+| ------------- | ------------- |
+| Impacto  | Qual o tamanho do impacto que esse projeto terá na realidade brasileira? Ele soluciona um problema que afeta um grande número de pessoas ou uma comunidade específica? |
+| Originalidade  | Content Cell  |
 
-1. Inovação breakthrough
-Inovações originais, sem referência prévia na literatura acadêmica
 
-2. Melhoria incremental
-Inovações que inserem pequenas inovações (ex: novos features) a conhecimentos já consolidados
 
-3. Novos usos de tecnologias conhecidas
-Ausência de inovação tecnológica, mas com uso inovador de tecnologias conhecidas
 
-4. Ausência de inovação
-Ausência de quaisquer das características acima
+## Critérios para times
 
-## Impacto {#impacto}
+Projetos e ideias serão avaliados usando os critérios de **[inovação](inovacao)**, **[impacto](impacto)** e **[viabilidade](viabilidade)**. Já os times participantes serão avaliados pela sua **[capacitação](capacitacao)**, **[proatividade](proatividade)** e **[evolução](evolucao)** dentro da competição.
 
-## Viabilidade {#viabilidade}
-
-## Capacitação {#capacitação}
 
 
 

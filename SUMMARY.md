@@ -2,9 +2,7 @@
 
 * [Introduction](README.md)
 * [Timeline](timeline.md)
+* [Critérios de Avaliação](criterios.md)
 * [Plataforma](plataforma.md)
 * [Invitational](invitational.md)
-* [Propriedade intelectual](propriedade-intelectual.md)
-* [Direitos Autorais](direitos.md)
-* [Critérios de Avaliação](criterios.md)
-
+* [Propriedade intelectual e Direitos Autorais](propriedade-intelectual-direitos.md)

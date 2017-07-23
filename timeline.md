@@ -9,7 +9,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 <p/>
 `Abrem as inscrições para a primeira fase - ideação`
 
-- A fase de ideação consistirá de um formulário online. Sim, apenas uma application online. É nessa fase que estaremos conhecendo quem são vocês, suas equipes e suas ideias. Nessa fase, a hack não fará distinção entre níveis das equipes - uma startup vs. uma equipe começando a partir do zero serão virtualmente iguais nessa etapa. Os critérios de avaliação considerados serão, em ordem decrescente de prioridade:
+- A inscrição consistirá de um formulário online. Sim, apenas uma application online. É na inscrição que estaremos conhecendo quem são vocês, suas equipes e suas ideias. Nessa etapa, a hack não fará distinção entre níveis das equipes - uma startup vs. uma equipe começando a partir do zero serão virtualmente iguais nessa etapa. Os critérios de avaliação considerados serão, em ordem decrescente de prioridade:
 <p/>
  * Ideias propostas, impacto da ideia
  * Tangibilidade da ideia
@@ -23,7 +23,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 ## 15-09-2017
 <p/>
-`Último dia de inscrição da primeira fase`
+`Último dia de inscrição`
 
 - Deadline final para enviar o formulário de application.
 
@@ -31,7 +31,27 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 <!-- timeline -->
 
-## 01-10-2017
+## 06-10-2017
+<p/>
+`Começo da primeira fase`
+
+- **100 equipes** serão anúnciadas para a primera fase, que consistirá em um vídeo de no máximo um minuto descrevendo a equipe e o projeto a ser trabalhado - detalhes mais específicos sobre o vídeo serão anúnciados nas instruções da fase. Os critérios de seleção serão os mesmos da inscrição, com maior ênfase no critério de comunicação.
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 20-10-2017
+<p/>
+`Fim da primeira fase`
+
+- Prazo de entrega do vídeo.
+
+<!-- /timeline -->
+
+<!-- timeline -->
+
+## 01-11-2017
 <p/>
 `Começo da segunda fase - desenvolvimento`
 

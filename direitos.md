@@ -1,4 +1,4 @@
-#Direitos Autorais
+#DIREITOS AUTORAIS
 
 
 O\(s\) membro\(s\) do time garante\(m\) que as informações submetidas sobre cada membro, na etapa de inscrição, são verídicas e correspondem a fatos reais na carreira de cada um.**

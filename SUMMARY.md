@@ -6,5 +6,5 @@
 * [Invitational](invitational.md)
 * [Propriedade intelectual](propriedade-intelectual.md)
 * [Direitos Autorais](direitos.md)
-* [Critérios de Avaliação](criterios-de-julgamento.md)
+* [Critérios de Avaliação](criterios.md)
 

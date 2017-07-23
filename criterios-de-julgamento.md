@@ -1,7 +1,37 @@
-**Critérios de Julgamento **
+# CRITÉRIOS DE AVALIAÇÃO 
 
-**  
-**
+
+Os serão avaliados pelo time de organização da HackBrazil de acordo com os seguintes critérios:
+
+* [Inovação](inovacao)
+* [Impacto][impacto]
+* [Viabilidade][viabilidade]
+* [Capacitação][capacitação]
+
+# Descrição dos critérios
+
+## Inovação {#inovacao}
+
+1. Inovação breakthrough
+Inovações originais, sem referência prévia na literatura acadêmica
+
+2. Melhoria incremental
+Inovações que inserem pequenas inovações (ex: novos features) a conhecimentos já consolidados
+
+3. Novos usos de tecnologias conhecidas
+Ausência de inovação tecnológica, mas com uso inovador de tecnologias conhecidas
+
+4. Ausência de inovação
+Ausência de quaisquer das características acima
+
+## Impacto {#impacto}
+
+## Viabilidade {#viabilidade}
+
+## Capacitação {#capacitação}
+
+
+
 
 **Os formulários submetidos durante a etapa de inscrição serão avaliados pelo time de organização da HackBrazil. As vinte equipes que irão participar do Mês Maker serão selecionadas com base em uma ponderação das habilidades dos membros das equipes, no impacto dos projetos em que já estiveram envolvidos, e na motivação para propor soluções de grande impacto no Brasil. A avaliação dos finalistas será feita por um vídeo, de no máximo 7 minutos, a ser enviado pela equipe ao final do Mês Maker - além disso, performance e impacto serão constantemente considerados por mentores ao longo do mês.**
 

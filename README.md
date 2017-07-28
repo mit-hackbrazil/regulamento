@@ -14,7 +14,7 @@ A **HackBrazil** é uma competição anual cuja missão é unir brasileiros dos 
 
 A única missão da Hack é fazer acontecer esses projetos - e para isso, nossa principal arma (além dos pomposos valores dos prêmios finais) é a fabricação de uma rede de hackers, makers e empreendedores. A rede será feita principalmente a partir de uma **plataforma** online, a qual terão acesso as equipes que passarem pela primeira fase, a fase de ideação. Nessa plataforma, as equipes estarão mergulhadas em um network de mentoria (oferecido por estudantes, alumni e staff do MIT), recursos (oferecidos por empresas, coworking spaces, makerspaces) e, principalmente contatos (com outros hackers, sponsors e parceiros da Hack).
 
-A rede culminará em **5 equipes** fazendo seus pitches finais frente a frente com Harvard e MIT durante a [Brazil Conference](https://www.facebook.com/brazilconference/). Essas equipes terão acesso a diversos paineis de tecnologia e discussões sobre o ecossistema de inovação brasileiro, além do papel fundamental de representar a tecnologia brasileira. E claro, o vencedor da HackBrazil levará **$25,000** para casa.
+A rede culminará em **5 equipes** fazendo seus pitches finais frente a frente com Harvard e MIT durante a [Brazil Conference](https://www.facebook.com/brazilconference/). Essas equipes terão acesso a diversos paineis de tecnologia e discussões sobre o ecossistema de inovação brasileiro, além do papel fundamental de representar a tecnologia brasileira. E claro, o vencedor da HackBrazil levará **25.000,00** dólares para casa.
 
 <br/>
 ### INSCRIÇÃO
@@ -34,7 +34,7 @@ As equipes que passarem para a próxima fase serão anunciadas e um convite para
 
 A primeira semana da segunda fase associará equipes a mentores, e o acesso à plataforma permitirá que hackers sejam integrados à rede da HackBrazil, com acesso a mentores, sponsors, empresas, e parceiros da HackBrazil.
 
-Durante a segunda fase, serão realizados 3 checkups (por meio de formulários) ao final de cada mês para que o comitê e a mentoria da HackBrazil possam acompanhar as equipes. Um calendário estará disponível na plataforma com melhores detalhes. Formulários **devem ser preenchidos até as datas especificadas**. Após a data associada, acesso ao formulário será fechado e, a não ser que especificado o contrário para um dado formulário, a equipe será eliminada e não poderá participar de outros desafios da plataforma (embora a equipe possa continuar acessando e acompanhando o desenrolar da fase).
+Durante a segunda fase, serão realizados **3 checkups** (por meio de formulários) ao final de cada mês para que o comitê e a mentoria da HackBrazil possam acompanhar as equipes. Um calendário estará disponível na plataforma com melhores detalhes. Formulários **devem ser preenchidos até as datas especificadas**. Após a data associada, acesso ao formulário será fechado e, a não ser que especificado o contrário para um dado formulário, a equipe será eliminada e não poderá participar de outros desafios da plataforma (embora a equipe possa continuar acessando e acompanhando o desenrolar da fase).
 
 O principal objetivo da segunda fase é manter uma rede bem integrada e badalada de uma geração da comunidade de tecnologia do Brasil. Equipes poderão acompanhar outras equipes e terão acesso a rede maior de parceiros, makerspaces, fablabs etc. que farão parte da plataforma.
 

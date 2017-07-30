@@ -29,7 +29,7 @@ A inscrição consistirá de um formulário online. Sim, apenas uma application 
 
 As equipes que passarem para a próxima fase serão anunciadas e um convite para a plataforma da HackBrazil será enviado. **30 equipes** serão convidadas, e uma lista de espera de **5 outras equipes** será mantida para casos de desistência. Sponsors, parceiros da Hack e mentores também serão convidados para a plataforma, assim como convidados pelo Passe Hacker.
 <p/>
-> Passe Hacker: essa fase também contará com no **máximo 5 equipes** vencedoras de hackathons (ou eventos de cunho semelhante) regionais no Brasil. Os convites - chamados de Passe Hacker - serão parte da premiação do primeiro lugar dessas competições, e as instituições mantenedoras desses eventos podem se inscrever para os convites [por aqui](https://static.wixstatic.com/media/16069d_c140a0842a6346b8a7adf1a66e0dc72b.jpg).
+> Passe Hacker: essa fase também contará com no **máximo 5 equipes** vencedoras de hackathons (ou eventos de cunho semelhante) regionais no Brasil. Os convites - chamados de Passe Hacker - serão parte da premiação do primeiro lugar dessas competições, e as instituições mantenedoras desses eventos podem se inscrever para os convites [por aqui](https://allanscosta.typeform.com/to/X7GVNW).
 <p/>
 
 A primeira semana da segunda fase associará equipes a mentores, e o acesso à plataforma permitirá que hackers sejam integrados à rede da HackBrazil, com acesso a mentores, sponsors, empresas, e parceiros da HackBrazil.

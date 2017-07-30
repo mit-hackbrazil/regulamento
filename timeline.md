@@ -7,7 +7,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 ## 01-08-2017
 <p/>
-`Abrem as inscrições para a primeira fase - ideação`
+`ABREM AS INSCRIÇÕES PARA A PRIMEIRA FASE - IDEAÇÃO`
 - A inscrição da HackBrazil estará disponível no site.
 
 <!-- /timeline -->
@@ -16,7 +16,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 ## 15-09-2017
 <p/>
-`Último dia de inscrição`
+`ÚLTIMO DIA DE INSCRIÇÃO`
 
 
 <!-- /timeline -->
@@ -25,7 +25,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 ## 06-10-2017
 <p/>
-`Começo da primeira fase`
+`COMEÇO DA PRIMEIRA FASE`
 - As **100** melhores equipes farão um vídeo descrevendo suas ideias e planos de ação
 
 <!-- /timeline -->
@@ -34,7 +34,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 ## 20-10-2017
 <p/>
-`Fim da primeira fase`
+`FIM DA PRIMEIRA FASE`
 - Último dia para enviar os vídeos da primeira fase. Último dia para eventos se inscreverem para o Passe Hacker.
 
 <!-- /timeline -->
@@ -43,7 +43,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 ## 01-11-2017
 <p/>
-`Começo da segunda fase - desenvolvimento`
+`COMEÇO DA SEGUNDA FASE - DESENVOLVIMENTO`
 - As equipes que passarem para a segunda fase serão anunciadas e convidadas para a plataforma.
 
 <!-- /timeline -->
@@ -52,7 +52,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 ## 02-02-2018
 <p/>
-`Final da segunda fase`
+`FINAL DA SEGUNDA FASE`
 
 - Data da última avaliação da segunda fase, que terá prioridade sobre as outras, e consistirá de um pitch (semi)-final a ser enviado ao final da fase.
 <!-- /timeline -->
@@ -62,7 +62,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 ## 15-02-2018
 <p/>
-`Anúncio dos finalistas`
+`ANÚNCIO DOS FINALISTAS`
 
 - As **5 equipes** finalistas da HackBrazil serão anunciadas, e o comitê da organização da Hack entrará em contato direto para organizar detalhes da viagem a Boston para a Brazil Conference. As últimas semanas antes da Conference deverão ser usadas para finalizar um protótipo do projeto e preparar o pitch final.
 
@@ -73,7 +73,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 ## 06-04-2018
 <p/>
-`Final - Brazil Conference at Harvard & MIT`
+`FINAL - BRAZIL CONFERENCE AT HARVARD & MIT`
 - O evento durará dois dias e os finalistas participarão de diversos paineis da conferência.
 
 <!-- /timeline -->

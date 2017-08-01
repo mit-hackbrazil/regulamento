@@ -5,7 +5,7 @@
 [conference]: http://www.brazilconference.org
 
 # FORMATO DA COMPETIÇÃO
-<!-- TODO(larat): add something about why three stages... -->
+O formato da HackBrazil é baseado nos estágios de fabricação de um produto e consiste, fora o período de inscrição, de três fases: ideação, desenvolvimento e pitch final.
 
 ## INSCRIÇÃO
 

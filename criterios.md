@@ -4,9 +4,9 @@ Os critérios de avaliação da HackBrazil foram desenvolvidos para selecionar p
 
 ## Critérios por fase
 
-Durante cada fase, os times participantes serão julgados utilizando uma combinação de critérios que avaliam tanto o ** potencial e a qualidade do projeto ** quanto a ** capacidade de execução da equipe **.
+Durante cada fase, os times participantes serão julgados utilizando uma combinação de critérios que avaliam tanto o **potencial e a qualidade do projeto** quanto a **capacidade de execução da equipe**.
 
-#### Qualidade do projeto {#proj}
+#### Qualidade do projeto
 
 | Fase              | Impacto | Inovação | Viabilidade   | Demo  |
 | ----------------- | :-----: | :------: | :---------:   | :--:  |
@@ -14,7 +14,7 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 | Desenvolvimento   | ✔       | ✔        | ✔             | ✔     |
 | Pitch             | ✔       | ✔        | ✔             | ✔     |
 
-#### Capacidade de execução {#team}
+#### Capacidade de execução
 
 | Fase              | Competência | Empenho | Evolução | Comunicação   |
 | ----------------- | :---------: | :-----: | :------: | :----------:  |
@@ -34,5 +34,3 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 | Empenho       | A equipe se utilizou dos recursos da HackBrazil e cumpriu com os prazos da competição? |
 | Evolução      | A equipe foi capaz de desenvolver e aperfeiçoar o seu projeto? A equipe respondeu ao feedback dos mentores e cresceu durante a competição? |
 | Comunicação   | A equipe conseguiu articular suas ideias de forma clara e efetiva? |
-
-**Ao submeter a inscrição para a HackBrazil, o\(s\) incrito\(s\) isentam a HackBrazil, os organizadores, patrocinadores do evento, afiliados, diretores, representantes, agentes e conselheiros de toda e qualquer responsabilidade por quaisquer ressarcimentos, custos, lesões, perdas, ou danos de qualquer natureza que decorram, ou possam estar conectadas, com qualquer decisão dos juízes.**

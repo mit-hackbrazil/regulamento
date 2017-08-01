@@ -3,6 +3,6 @@
 * [A Hack](README.md)
 * [Timeline](timeline.md)
 * [Critérios de Avaliação](criterios.md)
-* [Passe Hacker](invitational.md)
+* [Passe Hacker](passe-hacker.md)
 * [Propriedade intelectual e Direitos Autorais](propriedade-intelectual-direitos.md)
 

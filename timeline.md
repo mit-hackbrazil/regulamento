@@ -1,11 +1,13 @@
 <!-- links -->
 <!-- TODO(allan): add link to form -->
 [signup-form]: http://link.to.form
+[conference]: http://www.brazilconference.org
+
 # PROGRAMAÇÃO
 
 As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
-> A não ser que especificados, os prazos serão até meia noite do dia descrito.
+> A não ser que especificados, os prazos serão até meia noite (horário de Brasília) do dia descrito.
 
 <!-- timeline -->
 
@@ -14,7 +16,7 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 `ABREM AS INSCRIÇÕES PARA A PRIMEIRA FASE - IDEAÇÃO`
 
-- O [link][signup-form] para o formulário de inscrição da HackBrazil estará disponível no site..
+- O [link][signup-form] para o formulário de inscrição da HackBrazil estará disponível no site.
 
 <!-- /timeline -->
 
@@ -46,7 +48,8 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 
 `FIM DA PRIMEIRA FASE`
 
-- Último dia para enviar o vídeo da primeira fase. Último dia para organizadores de hackathons brasileiros se inscreverem para o [Passe Hacker](passe-hacker.md).
+- Último dia para enviar o vídeo da primeira fase.
+- Último dia para organizadores de hackathons brasileiros se inscreverem para o [Passe Hacker](passe-hacker.md).
 
 <!-- /timeline -->
 
@@ -89,8 +92,8 @@ As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
 ## 06-04-2018
 <p/>
 
-`FINAL - BRAZIL CONFERENCE AT HARVARD & MIT`
+`FASE FINAL - PITCH @ BRAZIL CONFERENCE AT HARVARD & MIT`
 
-- O evento durará dois dias e os finalistas participarão de diversos painéis da conferência. A final consistirá de um pitch ao vivo para o corpo de jurados e participantes da Brazil Conference, que também será transmitido pela internet para o mundo todo.
+- A [Brazil Conference][conference] durará dois dias e os finalistas participarão de diversos painéis da conferência. A final consistirá de um pitch ao vivo para o corpo de jurados e participantes da Brazil Conference, que também será transmitido pela internet para o mundo todo.
 
 <!-- /timeline -->

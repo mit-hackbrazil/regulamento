@@ -9,3 +9,5 @@
 - O\(s\) membro\(s\) do time garante\(m\) que é\(são\) o\(s\) único\(s\) autor\(es\) do material submetido, e que esse material é fruto de trabalho originalmente feito por membros do time. No caso em que algo preexistente seja utilizado, o\(s\) integrante\(s\) garante\(m\) que obteve\(iveram\) as autorizações necessárias para sua utilização, e que não está\(ão\) infringindo nenhum direito autoral de terceiros.
 
 - O\(s\) membro\(s\) do time autorizam a HackBrazil a utilizar sua\(s\) imagem\(ns\) para fins de divulgação.
+
+- Ao submeter a inscrição para a HackBrazil, o\(s\) incrito\(s\) isentam a HackBrazil, os organizadores, patrocinadores do evento, afiliados, diretores, representantes, agentes e conselheiros de toda e qualquer responsabilidade por quaisquer ressarcimentos, custos, lesões, perdas, ou danos de qualquer natureza que decorram, ou possam estar conectadas, com qualquer decisão dos juízes.

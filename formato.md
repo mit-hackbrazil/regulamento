@@ -13,7 +13,7 @@ A inscrição consistirá de um formulário online. Sim, apenas preencher a appl
 
 ## PRIMEIRA FASE - IDEAÇÃO
 
-**100 equipes** serão selecionadas para a primera fase, que consistirá na elaboração de um vídeo curto descrevendo a equipe e o projeto a ser trabalhado. Detalhes mais específicos sobre o vídeo serão comunicados às equipes qualificadas.
+**100 equipes** serão selecionadas para a primeira fase, que consistirá na elaboração de um vídeo curto descrevendo a equipe e o projeto a ser trabalhado. Detalhes mais específicos sobre o vídeo serão comunicados às equipes qualificadas.
 
 ## SEGUNDA FASE - DESENVOLVIMENTO
 

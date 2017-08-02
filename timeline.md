@@ -1,7 +1,6 @@
 <!-- links -->
 [signup-form]: https://hackbrazil.typeform.com/to/ldC4iq
 [conference]: http://www.brazilconference.org
-
 # PROGRAMAÇÃO
 
 As datas mais relevantes da HackBrazil e o que acontece em cada etapa.

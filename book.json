@@ -1,5 +1,5 @@
 {
-    "plugins": ["youtube", "timeline"],
+    "plugins": ["youtube", "timeline", "theme-default"],
     "pluginsConfig": {
         "fontsettings": {
             "theme": "night",

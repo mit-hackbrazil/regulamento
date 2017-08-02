@@ -1,7 +1,5 @@
 <!-- links -->
-<!-- TODO(allan): add link to form -->
-[signup-form]: http://link.to.form
-[hacker-form]: https://allanscosta.typeform.com/to/X7GVNW
+[signup-form]: https://hackbrazil.typeform.com/to/ldC4iq
 [conference]: http://www.brazilconference.org
 
 # FORMATO DA COMPETIÇÃO

@@ -1,6 +1,5 @@
 <!-- links -->
-<!-- TODO(allan): add link to form -->
-[signup-form]: http://link.to.form
+[signup-form]: https://hackbrazil.typeform.com/to/ldC4iq
 [conference]: http://www.brazilconference.org
 
 # PROGRAMAÇÃO

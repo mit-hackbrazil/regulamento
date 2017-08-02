@@ -5,5 +5,7 @@
 * [Programação](timeline.md)
 * [Critérios de Avaliação](criterios.md)
 * [Passe Hacker](passe-hacker.md)
-* [Propriedade intelectual e Direitos Autorais](propriedade-intelectual-direitos.md)
+* [Propriedade Intelectual e Direitos Autorais](propriedade-intelectual-direitos.md)
+
+
 

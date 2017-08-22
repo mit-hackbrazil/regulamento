@@ -7,6 +7,8 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 
 
 > Exceto se especificamente previsto de forma diferente, os prazos abaixo serão encerrados a meia noite do dia descrito.
+
+
 <!-- timeline -->
 
 ## 02-08-2017

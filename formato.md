@@ -7,7 +7,9 @@ O formato da HackBrazil é baseado nos estágios de fabricação de um produto e
 
 ## INSCRIÇÃO
 
-A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. Sim, apenas preencher a application pelo [link em nosso site][signup-form]. Durante essa fase estaremos conhecendo quem vocês são, e a ideia na qual pretendem trabalhar durante a HackBrazil.
+A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. As equipes devem apenas preencher o formulário de _application_ pelo [link em nosso site][signup-form] e aceitar os termos e condições previstos neste documento. 
+
+Durante essa fase estaremos conhecendo quem vocês são, e a ideia na qual pretendem trabalhar durante a HackBrazil.
 
 **Nessa etapa, a HackBrazil não irá discriminar as equipes com base no estágio em que se encontra; uma startup e uma equipe começando a partir do zero serão avaliadas pela qualidade da sua ideia e pela competência dos membros da equipes.**
 
@@ -17,13 +19,13 @@ A inscrição consistirá de um formulário online e aceite do Regulamento da Co
 
 ## SEGUNDA FASE - DESENVOLVIMENTO
 
-O principal objetivo da segunda fase é manter uma rede bem integrada, expressiva e viva de hackers, makers e empreendedores, gerando uma nova comunidade de tecnologia do Brasil.
+O principal objetivo da segunda fase é manter uma rede bem integrada, expressiva e viva de _hackers_, _makers_ e empreendedores, gerando uma nova comunidade de tecnologia do Brasil.
 
 Dentre os participantes da primeira fase, **30 equipes** serão selecionadas para a segunda fase. Todos os membros das equipes receberão um convite para a plataforma da HackBrazil onde terão acesso a patrocinadores, parceiros e mentores da HackBrazil.
 
 > Uma lista de espera de outras equipes será mantida para casos de desistência.
 
-> Além das equipes já qualificadas, também teremos vagas reservadas para o [Passe Hacker](passe-hacker.md).
+> Além das equipes já qualificadas, também teremos vagas reservadas para o [Passe Hacker](passe-hacker.md), uma novidade dessa edição da HackBrazil. Conforme descrito commaiores detalhes mais adiante, as equipes selecionadas dentro desse programa (nomáximo, 5) estarão dispensadas da primeira fase, sendo diretamente qualificadas para a segunda fase.
 
 Cada equipe contará com o suporte de mentores, escolhidos pela organização da HackBrazil baseado na experiência da equipe e na área de conhecimento do projeto.
 

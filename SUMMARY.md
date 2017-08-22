@@ -9,4 +9,5 @@
 * [Responsabilidade Limitada](responsabilidade.md)
 * [Propriedade Intelectual e Direitos Autorais](propriedade-intelectual-direitos.md)
 * [Sigilo,  Informações e Imagem](sigilo-informa-coes-e-imagem.md)
+* [Disposições Gerais](disposicoes-gerais.md)
 

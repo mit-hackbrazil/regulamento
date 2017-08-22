@@ -68,7 +68,7 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 ## 02-02-2018
 <p/>
 
-`FINAL DA SEGUNDA FASE`
+`ENCERRAMENTO DA SEGUNDA FASE`
 
 - Data da última avaliação da segunda fase, que consistirá em um pitch a ser enviado em formato de vídeo.
 <!-- /timeline -->

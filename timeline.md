@@ -57,9 +57,9 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 ## 01-11-2017
 <p/>
 
-`INI DA SEGUNDA FASE - DESENVOLVIMENTO`
+`INÍCIO DA SEGUNDA FASE - DESENVOLVIMENTO`
 
-- As equipes que passarem para a segunda fase serão anunciadas e convidadas para a plataforma.
+- As equipes que forem selecionadas para a segunda fase serão anunciadas e convidadas para a plataforma.
 
 <!-- /timeline -->
 

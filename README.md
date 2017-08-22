@@ -5,10 +5,12 @@
 
 # REGULAMENTO OFICIAL DA HACKBRAZIL
 
-**Salve Nação do Hack!** Bem-vindos à [HackBrazil 2018][hack-site].
-Esse é o regulamento oficial do evento, e aqui estarão listadas todas regras e fases da competição.
-Todos os detalhes da competição estão descritos aqui. Se você irá se inscrever, por favor **leia com atenção esse documento.**
-> Se em qualquer parte desse documento não houver clareza ou se faltar informação, não hesite em [contatar a HackBrazil](mailto:hackbrazil@mit.edu).
+**Salve Nação do Hack!** Bem-vindos à [HackBrazil 2018][hack-site] ("HackBrazil" ou "Competição").
+Abaixo, no regulamento oficial ("Regulamento"), estão listadas todas regras e fases da competição.
+Todos os detalhes da competição estão descritos aqui. Se você planeja fazer a sua inscrição, por favor, **leia com atenção esse documento.**
+A participação na Competição está condicionada à aceitação de todos os termos e condições abaixo, os quais vigorarão durante toda a duração da HackBrazil.
+> Caso tenha qualquer dúvida, não hesite em contatar a equipe da HackBrazil pelo e-mail
+[hackbrazil@mit.edu](mailto:hackbrazil@mit.edu).
 
 ## A HACK
 

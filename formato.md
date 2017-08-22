@@ -29,9 +29,11 @@ Além das equipes já qualificadas, também teremos vagas reservadas para o [Pas
 
 A primeira parte da segunda fase consistirá na designação de mentores a cada uma das equipes. Isso ocorrerá dentro da plataforma, sendo que os hackers serão integrados à rede da HackBrazil, com acesso aos mentores, patrocinadores e parceiros da Competição.
 
-Ao final de cada mês, as equipes farão uma avaliação do progresso e do estado dos seus respectivos projetos para que o comitê de avaliação e os mentores da HackBrazil possam acompanhar sua evolução. Um calendário estará disponível na plataforma com detalhes sobre datas e prazos.
+Na segunda parte dessa mesma fase, serão realizados 3 checkups (por meio de
+formulários) ao final de cada mês, para que o comitê de avaliação e os mentores da HackBrazil possam acompanhar as equipes. Um calendário ficará disponível na plataforma com maiores detalhes. 
 
-**As avaliações devem ser feitas, imprescindivelmente, dentro do período estipulado. O descumprimento das obrigações afetará negativamente a equipe participante.**
+**Os formulários devem ser preenchidos, imprescindivelmente, dentro do período estipulado. Após a data final de cada checkup, o acesso ao formulário será encerrado. Em caso de descumprimento do prazo ou de qualquer das obrigações, a equipe será eliminada.**
+
 
 ## TERCEIRA FASE - PITCH
 

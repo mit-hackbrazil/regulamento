@@ -35,7 +35,7 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 ## 06-10-2017
 <p/>
 
-`COMEÇO DA PRIMEIRA FASE`
+`INÍCIO DA PRIMEIRA FASE`
 
 - As **100** equipes selecionadas irão produzir um vídeo descrevendo suas ideias e planos de ação para a fase de desenvolvimento
 

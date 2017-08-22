@@ -1,0 +1,11 @@
+# **SIGILO, INFORMAÇÕES E IMAGEM**
+
+As equipes inscritas e seus respectivos membros manterão o mais absoluto sigilo com relação a qualquer informação recebida proveniente da participação na HackBrazil. O banco de dados gerado em função das inscrições será de inteira propriedade da HackBrazil, que poderá utilizá-lo sem qualquer ônus, para fins lícitos, da forma que melhor lhe prouver.  
+
+
+As equipes inscritas autorizam a HackBrazil, a Brazil Conference e seus respectivos Afiliados a divulgar os nomes de seus respectivos membros e o título do projeto, para fins de divulgação e promoção da Competição. Os membros das equipes inscritas autorizam, ainda, a HackBrazil, a Brazil Conference e seus respectivos Afiliados a utilizar suas imagens para fins de divulgação e promoção da Competição.
+
+ 
+
+A aceitação online dos termos deste Regulamento pelos participantes, condição prévia para a participação regular na HackBrazil, também implicará na expressa autorização e licenciamento gratuitos, mundiais, livres de pagamento de royalties, por prazo indeterminado à HackBrazil, à Brazil Conference e a seus respectivos Afiliados, para fins de reprodução parcial ou integral, edição, adaptação, tradução para qualquer outro idioma, publicação, transmissão, emissão, distribuição e comunicação ao público por quaisquer meios e em quaisquer formatos de: \(a\) nome, imagem, vídeo e voz dos participantes que poderão ser gravados durante a Competição, a critério da equipe organizadora; e \(b\) divulgação do escopo, conteúdo e funcionalidades dos projetos apresentados pelas equipes inscritas. Os participantes vencedores ou qualquer dos participantes não terão direito ao recebimento de quaisquer valores, seja a que tempo e/ou a que título for, em virtude de qualquer forma de utilização, divulgação e reprodução.
+

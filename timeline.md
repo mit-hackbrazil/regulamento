@@ -91,8 +91,15 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 ## 06-04-2018
 <p/>
 
-`FASE FINAL - PITCH @ BRAZIL CONFERENCE AT HARVARD & MIT`
+`FASE FINAL - BRAZIL CONFERENCE`
 
-- A [Brazil Conference][conference] durará dois dias e os finalistas participarão de diversos painéis da conferência. A final consistirá de um pitch ao vivo para o corpo de jurados e participantes da Brazil Conference, que também será transmitido pela internet para o mundo todo.
+- O evento terá duração de dois dias e os finalistas terão a chance de acompanhar
+diversos painéis da conferência. A final consistirá de um pitch ao vivo para o corpo de
+jurados e participantes da conferência e será transmitida pela internet para o mundo
+todo.
+
+A organização da HackBrazil se reserva o direito de alterar a programação e as datas
+previstas acima, devendo comunicar as alterações efetuadas aos participantes da
+Competição da maneira que entender mais apropriada.
 
 <!-- /timeline -->

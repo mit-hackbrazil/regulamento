@@ -95,8 +95,6 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 
 - O [evento](conference) terá duração de dois dias e os finalistas terão a chance de acompanhar diversos painéis da conferência. A final consistirá de um pitch ao vivo para o corpo de jurados e participantes da conferência e será transmitida pela internet para o mundo todo.
 
-- A organização da HackBrazil se reserva o direito de alterar a programação e as datas
-previstas acima, devendo comunicar as alterações efetuadas aos participantes da
-Competição da maneira que entender mais apropriada.
+- A organização da HackBrazil se reserva o direito de alterar a programação e as datas previstas acima, devendo comunicar as alterações efetuadas aos participantes da Competição da maneira que entender mais apropriada.
 
 <!-- /timeline -->

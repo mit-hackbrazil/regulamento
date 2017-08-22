@@ -7,7 +7,7 @@ O formato da HackBrazil é baseado nos estágios de fabricação de um produto e
 
 ## INSCRIÇÃO
 
-A inscrição consistirá de um formulário online. Sim, apenas preencher a application pelo [link em nosso site][signup-form]. Durante essa fase estaremos conhecendo quem vocês são, e a ideia na qual pretendem trabalhar durante a HackBrazil.
+A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. Sim, apenas preencher a application pelo [link em nosso site][signup-form]. Durante essa fase estaremos conhecendo quem vocês são, e a ideia na qual pretendem trabalhar durante a HackBrazil.
 
 **Nessa etapa, a HackBrazil não irá discriminar as equipes com base no estágio em que se encontra; uma startup e uma equipe começando a partir do zero serão avaliadas pela qualidade da sua ideia e pela competência dos membros da equipes.**
 

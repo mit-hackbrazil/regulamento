@@ -81,7 +81,7 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 
 `ANÚNCIO DOS FINALISTAS`
 
-- As **5 equipes** finalistas da HackBrazil serão anunciadas, e o comitê de organização da HackBrazil entrará em contato direto para organizar detalhes da viagem a Boston, para a Brazil Conference 2018. As últimas semanas antes da Conference deverão ser usadas para ajustar os últimos detalhes do projeto e preparar o pitch final.
+- As **5 equipes** finalistas da HackBrazil serão anunciadas, e o comitê de organização da HackBrazil entrará em contato direto para organizar detalhes da viagem a Cambridge, MA (EUA), para a Brazil Conference 2018. As últimas semanas antes da Conference deverão ser usadas para ajustar os últimos detalhes do projeto e preparar o pitch final.
 
 <!-- /timeline -->
 

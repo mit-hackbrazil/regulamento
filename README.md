@@ -14,7 +14,7 @@ A participação na Competição está condicionada à aceitação de todos os t
 
 ## A HACK
 
-A **HackBrazil** é uma competição anual, iniciativa da [Brazil Conference at Harvard and MIT][conference]. Nossa missão é unir brasileiros dos mais diversos ramos - estejam eles entre os mais habilidosos dos makers, os mais criativos dos designers, ou os mais apaixonados dos empreendedores - para que possamos fazer a diferença em nosso país. Todos os desafios enfrentados por nossa nação estão em jogo, e a HackBrazil estará acelerando startups, montando protótipos e conectando pessoas para que soluções concretas resolvam esses problemas.
+A **HackBrazil** é uma competição anual, iniciativa da [Brazil Conference at Harvard and MIT][conference] ("Brazil Conference"). Nossa missão é unir brasileiros dos mais diversos ramos - estejam eles entre os mais habilidosos dos _makers_, os mais criativos dos designers, ou os mais apaixonados dos empreendedores - para que possamos fazer a diferença em nosso país. Todos os desafios enfrentados por nossa nação estão em jogo, e a HackBrazil estará acelerando startups, montando protótipos e conectando pessoas para a busca de soluções concretas.
 
 As equipes participantes da HackBrazil terão acesso a mentoria (oferecida por estudantes, alumni e staff do MIT), recursos (oferecidos por empresas, coworking spaces, makerspaces) e, principalmente contatos (com outros hackers, patrocinadores e parceiros da HackBrazil).
 

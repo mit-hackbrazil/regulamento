@@ -37,6 +37,6 @@ formulários) ao final de cada mês, para que o comitê de avaliação e os ment
 
 ## TERCEIRA FASE - PITCH
 
-A final acontecerá durante a [Brazil Conference at Harvard and MIT 2018][conference], e as equipes finalistas terão acesso total aos eventos da conferência. O evento contará com a presença de nomes importantes da área de tecnologia no cenário brasileiro, além de todo o corpo de panelistas da conferência e outros potenciais investidores. Detalhes mais específicos sobre a etapa final serão divulgados após o anúncio dos finalistas.
+A final acontecerá durante a [Brazil Conference at Harvard and MIT 2018][conference], e as equipes finalistas terão acesso integral aos eventos da conferência. O evento contará com a participação de palestrantes das mais diversas áreas, inclusive de investidores e importantes nomes da área de tecnologia atuantes no cenário brasileiro. Mais detalhes sobre a etapa final serão divulgados após o anúncio das equipes finalistas.
 
 A equipe vencedora será escolhida por nossa banca de jurados, e levará a premiação final em capital financeiro e produtos de nossos patrocinadores.

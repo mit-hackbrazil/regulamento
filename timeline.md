@@ -3,10 +3,10 @@
 [conference]: http://www.brazilconference.org
 # PROGRAMAÇÃO
 
-As datas mais relevantes da HackBrazil e o que acontece em cada etapa.
+Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecerá em cada etapa. 
 
-> A não ser que especificados, os prazos serão até meia noite (horário de Brasília) do dia descrito.
 
+> Exceto se especificamente previsto de forma diferente, os prazos abaixo serão encerrados a meia noite do dia descrito.
 <!-- timeline -->
 
 ## 02-08-2017

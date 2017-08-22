@@ -48,8 +48,7 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 
 `ENCERRAMENTO DA PRIMEIRA FASE`
 
-- Último dia para enviar o vídeo da primeira fase.
-- Último dia para organizadores de hackathons brasileiros se inscreverem para o [Passe Hacker](passe-hacker.md).
+- Último dia para envio do vídeo da primeira fase e para inscrição no [Passe Hacker](passe-hacker.md).
 
 <!-- /timeline -->
 

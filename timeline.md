@@ -37,7 +37,7 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 
 `INÍCIO DA PRIMEIRA FASE`
 
-- As **100** equipes selecionadas irão produzir um vídeo descrevendo suas ideias e planos de ação para a fase de desenvolvimento
+- As **100** equipes selecionadas deverão produzir um vídeo descrevendo suas ideias e planos de ação para a fase de desenvolvimento
 
 <!-- /timeline -->
 
@@ -46,7 +46,7 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 ## 20-10-2017
 <p/>
 
-`FIM DA PRIMEIRA FASE`
+`ENCERRAMENTO DA PRIMEIRA FASE`
 
 - Último dia para enviar o vídeo da primeira fase.
 - Último dia para organizadores de hackathons brasileiros se inscreverem para o [Passe Hacker](passe-hacker.md).

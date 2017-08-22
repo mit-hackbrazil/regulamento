@@ -14,7 +14,7 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 ## 02-08-2017
 <p/>
 
-`ABREM AS INSCRIÇÕES PARA A PRIMEIRA FASE - IDEAÇÃO`
+`INÍCIO DAS INSCRIÇÕES PARA A PRIMEIRA FASE - IDEAÇÃO`
 
 - O [link][signup-form] para o formulário de inscrição da HackBrazil estará disponível no site.
 

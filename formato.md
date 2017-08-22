@@ -27,9 +27,7 @@ Dentre os participantes da primeira fase, **30 equipes** serão selecionadas par
 
 Além das equipes já qualificadas, também teremos vagas reservadas para o [Passe Hacker](passe-hacker.md), uma novidade dessa edição da HackBrazil. Conforme descrito commaiores detalhes mais adiante, as equipes selecionadas dentro desse programa (nomáximo, 5) estarão dispensadas da primeira fase, sendo diretamente qualificadas para a segunda fase.
 
-A primeira parte da segunda fase consistirá na designação de mentores a cada uma das equipes. Isso ocorrerá dentro da plataforma, sendo que os hackers serão
-integrados à rede da HackBrazil, com acesso aos mentores, patrocinadores e parceiros
-da Competição.
+A primeira parte da segunda fase consistirá na designação de mentores a cada uma das equipes. Isso ocorrerá dentro da plataforma, sendo que os hackers serão integrados à rede da HackBrazil, com acesso aos mentores, patrocinadores e parceiros da Competição.
 
 Ao final de cada mês, as equipes farão uma avaliação do progresso e do estado dos seus respectivos projetos para que o comitê de avaliação e os mentores da HackBrazil possam acompanhar sua evolução. Um calendário estará disponível na plataforma com detalhes sobre datas e prazos.
 

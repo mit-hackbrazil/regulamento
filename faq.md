@@ -30,6 +30,17 @@ Por exemplo, um projeto que começou com apenas um ideia inicial deve tentar apr
 protótipo ao final da competição. Já uma start-up no mercado pode focar em executar
 um plano de négocios para crescer sua base de usuários e seu alcance.
 
+### Posso participar com um projeto individual?
+
+Sim! Mas os projetos que tiveram mais sucesso na HackBrazil foram desenvolvidos por uma
+equipe diversa de pessoas com diferente habilidades.
+
+### Posso inscrever um projeto sem fins lucrativos?
+
+Sim! Porém, mesmo não sendo um projeto que foque em lucro, a equipe deve mostrar que o
+projeto é sustentável economicamento. Ou seja, que há um plano de negócios para manter
+o projeto funcionando.
+
 ### Vocês têm exemplos de projetos e pitches anteriores?
 Aqui estão os pitches de dois finalistas da HackBrazil 2017:
 [Projeto Geia](https://www.youtube.com/watch?v=-5pNokeI0vg)

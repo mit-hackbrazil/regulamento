@@ -12,8 +12,8 @@ business!
 
 ### Quantas pessoas a minha equipe pode ter?
 
-Não há limite no número de pessoas que podem trabalhar no projeto. Porém durante as  
-inscrições a equipe deve inscrever no máximo 3 membros como representantes, que serão  
+Não há limite no número de pessoas que podem trabalhar no projeto. Porém a equipe deve
+inscrever **no máximo 3** membros como representantes, que serão
 o ponto de contato entre a organização e a equipe.
 
 Além disso, caso a equipe se classifique para a fase final, a HackBrazil pagará as  

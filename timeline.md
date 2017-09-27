@@ -22,7 +22,7 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 
 <!-- timeline -->
 
-## 15-09-2017
+## 30-09-2017
 <p/>
 
 `ÚLTIMO DIA DE INSCRIÇÃO`

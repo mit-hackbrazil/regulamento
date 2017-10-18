@@ -43,7 +43,7 @@ Abaixo, estão listadas as datas mais relevantes da HackBrazil e o que acontecer
 
 <!-- timeline -->
 
-## 20-10-2017
+## 21-10-2017
 <p/>
 
 `ENCERRAMENTO DA PRIMEIRA FASE`

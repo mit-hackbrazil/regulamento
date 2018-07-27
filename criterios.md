@@ -8,30 +8,32 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 
 ### Qualidade do projeto
 
-| Fase | Impacto | Inovação | Viabilidade | Demo |
+| Fase | Impacto | Inovação | Viabilidade | Protótipo |
 | --- | :---: | :---: | :---: | :---: |
-| Ideação | ✔ | ✔ | ✔ |  |
-| Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
-| Pitch | ✔ | ✔ | ✔ | ✔ |
+| Primeira Fase: Ideação | ✔ | ✔ | ✔ |  |
+| Segunda Fase: Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
+| Terceira Fase: Pitch | ✔ | ✔ | ✔ | ✔ |
 
 ### Capacidade de execução
 
-| Fase | Competência | Empenho | Evolução | Comunicação |
+| Fase | Competência | Engajamento | HackBrazil | Comunicação |
 | --- | :---: | :---: | :---: | :---: |
-| Ideação | ✔ |  |  | ✔ |
-| Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
-| Pitch | ✔ |  |  | ✔ |
+| Primeira Fase: Ideação | ✔ |  |  | ✔ |
+| Segunda Fase: Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
+| Terceira Fase: Pitch | ✔ |  |  | ✔ |
 
 ## Descrição dos critérios
 
-| Critério | Descrição |
+| Critério | Critério | Descrição |
 | --- | --- |
-| Impacto | Qual o tamanho do impacto do projeto na realidade brasileira? Ele soluciona um problema que afeta um grande número de pessoas ou uma comunidade específica? |
-| Inovação | Quão inovador é o projeto? Ele aborda um problema brasileiro de maneira diferente? Existem soluções semelhantes no mercado? |
-| Viabilidade | Quão viável é o projeto na realidade brasileira? Ele é comercialmente viável, podendo ser replicado em larga escala? |
-| Demo | A demo do projeto funciona e é utilizável no estado atual? |
-| Competência | A equipe tem capacidade técnica para fazer o projeto acontecer? |
-| Empenho | A equipe se utilizou dos recursos da HackBrazil e cumpriu com os prazos da competição? |
-| Evolução | A equipe foi capaz de desenvolver e aperfeiçoar o seu projeto? A equipe respondeu ao feedback dos mentores e cresceu durante a competição? |
-| Comunicação | A equipe conseguiu articular suas ideias de forma clara e efetiva? |
+| Qualidade do projeto | Impacto | O projeto soluciona um problema que afeta um grande número de pessoas ou uma comunidade específica. O projeto possui impacto relevante na realidade brasileira. |
+| Qualidade do projeto | Inovação | O projeto é inovador, seja em termos de tecnologia ou modelo de negócios. O projeto aborda um problema brasileiro de maneira diferente. |
+| Qualidade do projeto | Viabilidade | **O projeto é financeiramente sustentável e operacionalmente viável na realidade brasileira. O projeto pode ser replicado em larga escala.** |
+| Qualidade do projeto | Protótipo | **O projeto possui um protótipo funcional e utilizável no estado atual.** |
+| **Capacidade de Execução** | Competência | **A equipe é diversa em termos de habilidades e possui capacidade técnica para fazer o projeto acontecer. A equipe possui conhecimento profundo do problema e da solução.** |
+| **Capacidade de Execução** | Engajamento | **A equipe utilizou os recursos da HackBrazil \(mentoria, workshops e atividades\) e cumpriu com os prazos da Competição. A equipe foi capaz de desenvolver e aperfeiçoar o seu projeto durante a Competição.** |
+| **Capacidade de Execução** | HackBrazil | **A equipe articulou suas ideias de forma clara e efetiva.** |
+| **Capacidade de Execução** | Comunicação | **A equipe tem clareza em como a fase de desenvolvimento e o prêmio da HackBrazil serão utilizados para o projeto.** |
+
+> **A equipe da organização HackBrazil efetuará a avaliação das equipes inscritas e reserva-se o direito de decisão sobre os critérios de seleção.**
 

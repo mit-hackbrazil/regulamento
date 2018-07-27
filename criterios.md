@@ -20,7 +20,7 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 | --- | :---: | :---: | :---: | :---: |
 | Ideação | ✔ |  |  | ✔ |
 | Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
-| Pitch |  |  |  | ✔ |
+| Pitch | ✔ |  |  | ✔ |
 
 ## Descrição dos critérios
 

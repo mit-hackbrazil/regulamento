@@ -18,9 +18,9 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 
 | Fase | Competência | Empenho | Evolução | Comunicação |
 | --- | :---: | :---: | :---: | :---: |
-| Ideação | ✔ |  |  | ✔ |
+| Ideação | ✔ |  | ✔ | ✔ |
 | Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
-| Pitch |  |  |  | ✔ |
+| Pitch | ✔ |  |  | ✔ |
 
 ## Descrição dos critérios
 

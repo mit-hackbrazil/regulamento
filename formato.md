@@ -1,41 +1,50 @@
-<!-- links -->
-[signup-form]: https://hackbrazil.typeform.com/to/wovZZM
-[conference]: http://www.brazilconference.org
+# Formato da Competição
 
-# FORMATO DA COMPETIÇÃO
-O formato da HackBrazil é baseado nos estágios de fabricação de um produto e consiste, fora o período de inscrição, de três fases: ideação, desenvolvimento e pitch final.
+## FORMATO DA COMPETIÇÃO
 
-## INSCRIÇÃO
+O formato da HackBrazil é baseado nos estágios de fabricação de um produto e, sem contar o período de inscrição, é composto de três fases: ideação, desenvolvimento e pitch final.
 
-A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. As equipes devem apenas preencher o formulário de _application_ pelo [link em nosso site][signup-form] e aceitar os termos e condições previstos neste documento. 
+### INSCRIÇÃO
 
-Durante essa fase estaremos conhecendo quem vocês são, e a ideia na qual pretendem trabalhar durante a HackBrazil.
+A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. As equipes devem preencher o formulário de application pelo [link em nosso site](https://www.hackbrazil.com/inscricao) e aceitar os termos e condições previstos neste documento.
 
-**Nessa etapa, a HackBrazil não irá discriminar as equipes com base no estágio em que se encontra; uma startup e uma equipe começando a partir do zero serão avaliadas pela qualidade da sua ideia e pela competência dos membros da equipes.**
+Durante essa fase, conheceremos as equipes inscritas, seus respectivos membros e a ideia na qual as equipes pretendem trabalhar durante a HackBrazil.
 
-## PRIMEIRA FASE - IDEAÇÃO
+**A HackBrazil aceitará ideias de empreendedores brasileiros, de todas as indústrias, em fase inicial de desenvolvimento e que demonstram um claro impacto social na realidade brasileira.** As equipes devem levar em consideração as seguintes regras:
 
-**100 equipes** serão selecionadas para a primeira fase, que consistirá na elaboração de um vídeo curto descrevendo a equipe e o projeto a ser trabalhado. Detalhes mais específicos sobre o vídeo serão comunicados às equipes qualificadas.
+* Cada time inscrito poderá apresentar apenas uma ideia para fins da Competição.
+* Os participantes não poderão fazer parte de mais de um time inscrito.
+* Os times devem conter ao menos dois participantes, de forma que não serão aceitas inscrições individuais. Os participantes devem ser membros ativos e engajados no time. Não há limite máximo para o número de pessoas que podem trabalhar no projeto, mas a equipe só poderá inscrever no máximo 3 membros como representantes, que serão os pontos de contato entre a Competição e a equipe.
+* Pelo menos um participante de cada time inscrito deve ter cidadania brasileira ou residir no Brasil.
+* Todos os membros da equipe deve ter concluído o Ensino Médio.
 
-## SEGUNDA FASE - DESENVOLVIMENTO
+A proficiência em inglês não é obrigatória, pois todas as etapas da Competição serão realizadas em Português.
 
-O principal objetivo da segunda fase é manter uma rede bem integrada, expressiva e viva de _hackers_, _makers_ e empreendedores, gerando uma nova comunidade de tecnologia do Brasil.
+As equipes inscritas e seus respectivos membros reconhecem que sua inscrição e participação na Competição são feitas de forma gratuita e não-onerosa, bem como, na hipótese cabível, não constituem compromisso ou promessa de qualquer relação presente ou futura com a HackBrazil, seus organizadores ou patrocinadores.
 
-Dentre os participantes da primeira fase, **30 equipes** serão selecionadas para a segunda fase. Todos os membros das equipes receberão um convite para a plataforma da HackBrazil onde terão acesso a patrocinadores, parceiros e mentores da HackBrazil.
+### PRIMEIRA FASE - IDEAÇÃO
 
-> Uma lista de espera de outras equipes será mantida para casos de desistência.
+**100 equipes** serão selecionadas para a primeira fase da Competição, a qual consistirá na elaboração de um vídeo curto descrevendo a equipe e o projeto a ser trabalhado. Detalhes mais específicos sobre o vídeo serão comunicados às equipes qualificadas.
 
-Além das equipes já qualificadas, também teremos vagas reservadas para o [Passe Hacker](passe-hacker.md), uma novidade dessa edição da HackBrazil. Conforme descrito commaiores detalhes mais adiante, as equipes selecionadas dentro desse programa (no máximo, 5) estarão dispensadas da primeira fase, sendo diretamente qualificadas para a segunda fase.
+### SEGUNDA FASE - DESENVOLVIMENTO
 
-A primeira parte da segunda fase consistirá na designação de mentores a cada uma das equipes. Isso ocorrerá dentro da plataforma, sendo que os hackers serão integrados à rede da HackBrazil, com acesso aos mentores, patrocinadores e parceiros da Competição.
+O principal objetivo da segunda fase da Competição é manter uma rede integrada, expressiva e viva de _hackers_, _makers_ e empreendedores, gerando uma nova comunidade de tecnologia do Brasil.
 
-Na segunda parte dessa mesma fase, serão realizados 2 checkups, ao final dos dois primeiros meses, para que o comitê de avaliação e os mentores da HackBrazil possam acompanhar as equipes. Um calendário ficará disponível na plataforma com maiores detalhes. 
+Dentre as equipes integrantes da primeira fase, serão selecionadas, **no máximo, 30 equipes** para a segunda fase \(em adição às equipes selecionadas pelo Passe Hacker\). Todos os membros das equipes selecionadas receberão um convite para acesso à plataforma da HackBrazil \(“Plataforma”\), na qual poderão se comunicar com mentores e outros participantes da Competição.
 
-**Os formulários devem ser preenchidos, imprescindivelmente, dentro do período estipulado. Após a data final de cada checkup, o acesso ao formulário será encerrado. Em caso de descumprimento do prazo ou de qualquer das obrigações, a equipe será eliminada.**
+> Uma lista de espera com outras equipes será mantida para casos de desistência.
 
+Além das equipes já qualificadas, também teremos vagas reservadas para o [Passe Hacker](https://hackbrazil.gitbooks.io/regulamento/passe-hacker.html). Conforme descrito com maiores detalhes mais adiante, as equipes selecionadas no contexto desse programa \(**no máximo, 10**\) estarão dispensadas da primeira fase, sendo diretamente qualificadas para a segunda fase.
 
-## TERCEIRA FASE - PITCH
+A primeira parte da segunda fase consistirá na designação de mentores a cada uma das equipes. Isso ocorrerá dentro da Plataforma, sendo que os hackers serão integrados à rede da HackBrazil, com acesso aos mentores e outros participantes da Competição.
 
-A final acontecerá durante a [Brazil Conference at Harvard and MIT 2018][conference], e as equipes finalistas terão acesso integral aos eventos da conferência. O evento contará com a participação de palestrantes das mais diversas áreas, inclusive de investidores e importantes nomes da área de tecnologia atuantes no cenário brasileiro. Mais detalhes sobre a etapa final serão divulgados após o anúncio das equipes finalistas.
+Na segunda parte dessa mesma fase, serão realizados check-ins através de conversa realizada por Skype, Google Hangout ou outra plataforma de conversa online com duração entre 15 e 30 minutos, para que o comitê de avaliação e os mentores da HackBrazil possam acompanhar as equipes. Um calendário ficará disponível na plataforma com maiores detalhes.
 
-A equipe vencedora será escolhida por nossa banca de jurados, e levará a premiação final em capital financeiro e produtos de nossos patrocinadores.
+**Os formulários devem ser preenchidos, imprescindivelmente, dentro do prazo ora estipulado. Após a data final de cada checkup, o acesso ao formulário será encerrado. Em caso de descumprimento do prazo ora estabelecido ou de qualquer outra obrigação prevista neste Regulamento, a equipe infratora será eliminada.**
+
+### TERCEIRA FASE - PITCH
+
+A fase final da Competição acontecerá durante a [Brazil Conference at Harvard & MIT 2019](http://www.brazilconference.org/), a ser realizada em abril de 2019 em Cambridge, Massachusetts. As equipes finalistas terão a oportunidade de assistir aos painéis da conferência. O evento contará com a participação de palestrantes das mais diversas áreas, inclusive de investidores e importantes nomes da área de tecnologia atuantes no cenário brasileiro. Mais detalhes sobre a etapa final serão divulgados após o anúncio das equipes finalistas.
+
+Após o pitch, a equipe vencedora será escolhida por nossa banca de jurados e receberá o prêmio final em recursos financeiros.
+

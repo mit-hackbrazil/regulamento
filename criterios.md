@@ -1,4 +1,4 @@
-# CRITÉRIOS DE AVALIAÇÃO
+# Critérios de Avaliação
 
 Os critérios de avaliação da HackBrazil foram desenvolvidos para selecionar projetos que farão a diferença no Brasil e times que são capazes de tirar essas ideias do papel.
 
@@ -6,7 +6,7 @@ Os critérios de avaliação da HackBrazil foram desenvolvidos para selecionar p
 
 Durante cada fase, os times participantes serão julgados utilizando uma combinação de critérios que avaliam tanto o **potencial e a qualidade do projeto** quanto a **capacidade de execução da equipe**.
 
-#### Qualidade do projeto
+### Qualidade do projeto
 
 | Fase | Impacto | Inovação | Viabilidade | Demo |
 | --- | :---: | :---: | :---: | :---: |
@@ -14,13 +14,13 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 | Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
 | Pitch | ✔ | ✔ | ✔ | ✔ |
 
-#### Capacidade de execução
+### Capacidade de execução
 
 | Fase | Competência | Empenho | Evolução | Comunicação |
 | --- | :---: | :---: | :---: | :---: |
-| Ideação | ✔ |  | ✔ | ✔ |
+| Ideação | ✔ |  |  | ✔ |
 | Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
-| Pitch | ✔ |  |  | ✔ |
+| Pitch |  |  |  | ✔ |
 
 ## Descrição dos critérios
 
@@ -34,6 +34,4 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 | Empenho | A equipe se utilizou dos recursos da HackBrazil e cumpriu com os prazos da competição? |
 | Evolução | A equipe foi capaz de desenvolver e aperfeiçoar o seu projeto? A equipe respondeu ao feedback dos mentores e cresceu durante a competição? |
 | Comunicação | A equipe conseguiu articular suas ideias de forma clara e efetiva? |
-
-
 

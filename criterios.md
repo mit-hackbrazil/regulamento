@@ -8,7 +8,7 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 
 ### Qualidade do projeto
 
-| Fase | Impacto | Inovação | Viabilidade | Protótipo |
+| **Fase** | **Impacto** | **Inovação** | **Viabilidade** | **Protótipo** |
 | --- | :---: | :---: | :---: | :---: |
 | Primeira Fase: Ideação | ✔ | ✔ | ✔ |  |
 | Segunda Fase: Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
@@ -16,7 +16,7 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 
 ### Capacidade de execução
 
-| Fase | Competência | Engajamento | HackBrazil | Comunicação |
+| **Fase** | **Competência** | **Engajamento** | **HackBrazil** | **Comunicação** |
 | --- | :---: | :---: | :---: | :---: |
 | Primeira Fase: Ideação | ✔ |  | ✔ | ✔ |
 | Segunda Fase: Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
@@ -24,7 +24,7 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 
 ## Descrição dos critérios
 
-| Critério | Critério | Descrição |
+| **Grupo** | **Critério** | **Descrição** |
 | --- | --- |
 | Qualidade do projeto | Impacto | O projeto soluciona um problema que afeta um grande número de pessoas ou uma comunidade específica. O projeto possui impacto relevante na realidade brasileira. |
 | Qualidade do projeto | Inovação | O projeto é inovador, seja em termos de tecnologia ou modelo de negócios. O projeto aborda um problema brasileiro de maneira diferente. |

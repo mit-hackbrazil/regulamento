@@ -6,7 +6,7 @@ O formato da HackBrazil é baseado nos estágios de fabricação de um produto e
 
 ### INSCRIÇÃO
 
-A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. As equipes devem preencher o formulário de application pelo [link em nosso site](https://pt.surveymonkey.com/r/G33S97H) e aceitar os termos e condições previstos neste documento.
+A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. As equipes devem preencher o formulário de application pelo [link em nosso site](https://pt.surveymonkey.com/r/HTRPYCD) e aceitar os termos e condições previstos neste documento.
 
 Durante essa fase, conheceremos as equipes inscritas, seus respectivos membros e a ideia na qual as equipes pretendem trabalhar durante a HackBrazil.
 

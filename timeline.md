@@ -10,7 +10,7 @@ Abaixo estão listadas as datas mais relevantes da HackBrazil e o que acontecer�
 
 `INÍCIO DAS INSCRIÇÕES PARA A COMPETIÇÃO`
 
-* O [link](https://pt.surveymonkey.com/r/G33S97H) para o formulário de inscrição da HackBrazil estará disponível no site.
+* O [link](https://pt.surveymonkey.com/r/HTRPYCD) para o formulário de inscrição da HackBrazil estará disponível no site.
 
 ### 03-09-2018
 

@@ -10,7 +10,7 @@ Abaixo estão listadas as datas mais relevantes da HackBrazil e o que acontecer�
 
 `INÍCIO DAS INSCRIÇÕES PARA A COMPETIÇÃO`
 
-* O [link](https://www.hackbrazil.com/inscricao) para o formulário de inscrição da HackBrazil estará disponível no site.
+* O [link](https://pt.surveymonkey.com/r/G33S97H) para o formulário de inscrição da HackBrazil estará disponível no site.
 
 ### 03-09-2018
 
@@ -26,7 +26,7 @@ Abaixo estão listadas as datas mais relevantes da HackBrazil e o que acontecer�
 
 `ENCERRAMENTO DA PRIMEIRA FASE`
 
-* Último dia para envio do vídeo da primeira fase e para inscrição no [Passe Hacker](passe-hacker.md).
+* Último dia para envio do vídeo da primeira fase.
 
 ### 05-11-2018
 
@@ -50,7 +50,7 @@ Abaixo estão listadas as datas mais relevantes da HackBrazil e o que acontecer�
 
 `FASE FINAL - BRAZIL CONFERENCE`
 
-* O [evento](https://hackbrazil.gitbooks.io/regulamento/conference) terá duração de dois dias e os finalistas terão a chance de acompanhar diversos painéis da conferência. A final consistirá de um pitch ao vivo para o corpo de jurados e participantes da conferência e será transmitida pela Internet para o mundo todo.
+* O [evento](https://www.brazilconference.org/) terá duração de dois dias e os finalistas terão a chance de acompanhar diversos painéis da conferência. A final consistirá de um pitch ao vivo para o corpo de jurados e participantes da conferência e será transmitida pela internet para o mundo todo.
 
 > A organização da HackBrazil reserva-se o direito de alterar a programação e as datas previstas acima a qualquer momento, devendo comunicar as alterações efetuadas aos participantes da Competição da maneira que entender mais apropriada.
 

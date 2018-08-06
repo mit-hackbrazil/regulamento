@@ -7,3 +7,4 @@ O programa funciona da seguinte maneira: outras hackatons, aceleradoras ou event
 Selecionaremos, no máximo, 10 equipes inscritas no Passe Hacker para participar da HackBrazil. As equipes selecionadas por meio desse programa estarão dispensadas da primeira fase, sendo direcionadas diretamente para a fase de desenvolvimento, que é a segunda fase da Competição.
 
 As equipes selecionadas pelo Passe Hacker competirão em igualdade de condições com as demais equipes selecionadas para a fase de desenvolvimento. Inscrições para o Passe Hacker estarão disponíveis em breve.
+

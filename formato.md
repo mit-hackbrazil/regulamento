@@ -6,7 +6,7 @@ O formato da HackBrazil é baseado nos estágios de fabricação de um produto e
 
 ### INSCRIÇÃO
 
-A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. As equipes devem preencher o formulário de application pelo [link em nosso site](https://www.hackbrazil.com/inscricao) e aceitar os termos e condições previstos neste documento.
+A inscrição consistirá de um formulário online e aceite do Regulamento da Competição. As equipes devem preencher o formulário de application pelo [link em nosso site](https://pt.surveymonkey.com/r/G33S97H) e aceitar os termos e condições previstos neste documento.
 
 Durante essa fase, conheceremos as equipes inscritas, seus respectivos membros e a ideia na qual as equipes pretendem trabalhar durante a HackBrazil.
 
@@ -18,7 +18,7 @@ Durante essa fase, conheceremos as equipes inscritas, seus respectivos membros e
 * Pelo menos um participante de cada time inscrito deve ter cidadania brasileira ou residir no Brasil.
 * Todos os membros da equipe deve ter concluído o Ensino Médio.
 
-A proficiência em inglês não é obrigatória, pois todas as etapas da Competição serão realizadas em Português.
+A proficiência em inglês não é obrigatória, pois todas as etapas da Competição serão realizadas em português.
 
 As equipes inscritas e seus respectivos membros reconhecem que sua inscrição e participação na Competição são feitas de forma gratuita e não-onerosa, bem como, na hipótese cabível, não constituem compromisso ou promessa de qualquer relação presente ou futura com a HackBrazil, seus organizadores ou patrocinadores.
 
@@ -40,7 +40,8 @@ A primeira parte da segunda fase consistirá na designação de mentores a cada 
 
 Na segunda parte dessa mesma fase, serão realizados check-ins através de conversa realizada por Skype, Google Hangout ou outra plataforma de conversa online com duração entre 15 e 30 minutos, para que o comitê de avaliação e os mentores da HackBrazil possam acompanhar as equipes. Um calendário ficará disponível na plataforma com maiores detalhes.
 
-**Os formulários devem ser preenchidos, imprescindivelmente, dentro do prazo ora estipulado. Após a data final de cada checkup, o acesso ao formulário será encerrado. Em caso de descumprimento do prazo ora estabelecido ou de qualquer outra obrigação prevista neste Regulamento, a equipe infratora será eliminada.**
+**Os check-ins devem ser realizados, imprescindivelmente, dentro do prazo ora estipulado. Em caso de descumprimento do prazo ora estabelecido ou de qualquer outra obrigação prevista neste Regulamento, a equipe infratora será eliminada.**  
+
 
 ### TERCEIRA FASE - PITCH
 

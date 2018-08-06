@@ -8,9 +8,9 @@ Apesar do nome, a HackBrazil não é só para projetos de engenharia de software
 
 ## Quantas pessoas a minha equipe pode ter?
 
-Não há limite máximo no número de pessoas que podem trabalhar no projeto. Porém a equipe deve inscrever no mínimo dois e no máximo três membros como representantes, que serão o ponto de contato entre a organização e a equipe.
+Não há limite máximo no número de pessoas que podem trabalhar no projeto. Porém a equipe deve inscrever **no mínimo dois e no máximo três membros** como representantes, que serão o ponto de contato entre a organização e a equipe.
 
-Além disso, caso a equipe se classifique para a fase final, a HackBrazil pagará as despesas para até 3 representantes da equipe participarem da Brazil Conference em Harvard e no MIT, onde os representantes irão apresentar o pitch na frente dos nossos jurados.
+Além disso, caso a equipe se classifique para a fase final, a HackBrazil pagará as despesas para **no** **máximo três** representantes da equipe participarem da Brazil Conference no MIT e em Harvard, onde os representantes irão apresentar o pitch na frente dos nossos jurados.
 
 ## Em qual estágio de desenvolvimento o projeto deve estar para participar da HackBrazil?
 
@@ -18,9 +18,11 @@ As equipes inscritas em edições passadas da HackBrazil tiveram, em média, o s
 
 * Produto ou serviço inovador, com foco no mercado brasileiro e com impacto social.
 * Estágio inicial de desenvolvimento \(ideia / protótipo não testado em mercado / mínimo produto viável / produto já lançado no mercado, porém incipiente\).
-* Fase pré-receita \(menos de R$ 20 mil de receita pelas atividades comerciais da empresa\).
+* Fase pré-receita \(menos de R$ 20.000,00 mil de receita pelas atividades comerciais da empresa\).
 * Times com três participantes e divisão clara de responsabilidades.
-* A lista acima demonstra o perfil médio da candidatura em edições passadas da HackBrazil, não se tratando de um perfil restritivo. Ela é apresentada aqui apenas como exemplo do nosso atual processo. Se a sua equipe apresenta uma ideia inovadora e impactante para a realidade brasileira, você é nosso candidato!
+
+  
+_\*A lista acima demonstra o perfil médio da candidatura em edições passadas da HackBrazil, **não se tratando de um perfil restritivo**. Ela é apresentada aqui apenas como exemplo do nosso atual processo. Se a sua equipe apresenta uma ideia inovadora e impactante para a realidade brasileira, você é nosso candidato!_
 
 ## Posso participar com um projeto individual?
 
@@ -40,7 +42,7 @@ Sim! Porém, mesmo não sendo um projeto que foque em lucro, a equipe deve mostr
 
 ## Vocês têm exemplos de projetos e pitches anteriores?
 
-Aqui estão os pitches dos finalistas da HackBrazil 2018 \(EM BREVE\).
+[Aqui](https://www.youtube.com/watch?v=qH4unheA9m0&t=80s) estão os pitches dos finalistas da HackBrazil 2018.
 
 ## Eu tenho uma dúvida que não está listada aqui, com quem eu posso falar?
 

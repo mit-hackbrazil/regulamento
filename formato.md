@@ -16,7 +16,8 @@ Durante essa fase, conheceremos as equipes inscritas, seus respectivos membros e
 * Os participantes não poderão fazer parte de mais de um time inscrito.
 * Os times devem conter ao menos dois participantes, de forma que não serão aceitas inscrições individuais. Os participantes devem ser membros ativos e engajados no time. Não há limite máximo para o número de pessoas que podem trabalhar no projeto, mas a equipe só poderá inscrever no máximo 3 membros como representantes, que serão os pontos de contato entre a Competição e a equipe.
 * Pelo menos um participante de cada time inscrito deve ter cidadania brasileira ou residir no Brasil.
-* Todos os membros da equipe deve ter concluído o Ensino Médio.
+* Todos os membros da equipe deve ter concluído o Ensino Médio, e todos membros devem ser maiores de idade \(18 anos\).
+* Todos os membros da equipe devem ter reconhecida idoneidade moral e reputação ilibada, sendo passíveis de eliminação quaisquer equipes que tenham membros que estejam sendo, ou venham a ser, processados ou investigados, cível, administrativa ou criminalmente.
 
 A proficiência em inglês não é obrigatória, pois todas as etapas da Competição serão realizadas em português.
 

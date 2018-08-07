@@ -2,7 +2,7 @@
 
 ## FORMATO DA COMPETIÇÃO
 
-O formato da HackBrazil é baseado nos estágios de fabricação de um produto e, sem contar o período de inscrição, é composto de três fases: ideação, desenvolvimento e pitch final.
+O formato da HackBrazil é baseado nos estágios de fabricação de um produto e, sem contar o período de inscrição, é composto de três fases: ideação, desenvolvimento e pitch final. 
 
 ### INSCRIÇÃO
 

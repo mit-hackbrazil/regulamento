@@ -32,8 +32,8 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 | Qualidade do projeto | Protótipo | O projeto possui um protótipo funcional e utilizável no estado atual. |
 | Capacidade de Execução | Competência | A equipe é diversa em termos de habilidades e possui capacidade técnica para fazer o projeto acontecer. A equipe possui conhecimento profundo do problema e da solução. |
 | Capacidade de Execução | Engajamento | A equipe utilizou os recursos da HackBrazil \(mentoria, workshops e atividades\) e cumpriu com os prazos da Competição. A equipe foi capaz de desenvolver e aperfeiçoar o seu projeto durante a Competição. |
-| Capacidade de Execução | HackBrazil | A equipe articulou suas ideias de forma clara e efetiva. |
-| Capacidade de Execução | Comunicação | A equipe tem clareza em como a fase de desenvolvimento e o prêmio da HackBrazil serão utilizados para o projeto. |
+| Capacidade de Execução | HackBrazil | A equipe tem clareza em como a fase de desenvolvimento e o prêmio da HackBrazil serão utilizados para o projeto. |
+| Capacidade de Execução | Comunicação | A equipe articulou suas ideias de forma clara e efetiva. |
 
 > A equipe da organização HackBrazil efetuará a avaliação das equipes inscritas e reserva-se o direito de decisão sobre os critérios de seleção.
 

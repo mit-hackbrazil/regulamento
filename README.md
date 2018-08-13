@@ -14,5 +14,5 @@ As equipes participantes da HackBrazil terão acesso a mentoria, recursos e, pri
 
 Na última fase da Competição, **5 equipes** selecionadas farão seus pitches finais durante a Brazil Conference 2019, que ocorrerá em Abril de 2019 no MIT e em Harvard. Essas equipes terão acesso a diversos painéis durante a Conferência e vão desempenhar o papel fundamental de representar a tecnologia brasileira.
 
-**A equipe vencedora será escolhida por nossa banca de jurados e receberá o prêmio final em recursos financeiros.**
+**A equipe vencedora e o segundo colocado serão escolhidos por nossa banca de jurados e receberão o prêmio final em recursos financeiros.**
 

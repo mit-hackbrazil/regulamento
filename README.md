@@ -1,6 +1,6 @@
 # A Hack
 
-## REGULAMENTO OFICIAL DA HACKBRAZIL
+## REGULAMENTO OFICIAL DA HACKBRAZIL 
 
 **Salve Nação do Hack!** Bem-vindos à [HackBrazil 2019](http://www.hackbrazil.com/) \("HackBrazil" ou "Competição"\). Abaixo, no regulamento oficial \("Regulamento"\), estão listados todos os detalhes, regras e fases da competição. Se você planeja fazer a sua inscrição, por favor, **leia com atenção esse documento.** A participação na Competição está condicionada à aceitação de todos os termos e condições abaixo, os quais vigorarão desde a presente data e durante toda a duração da HackBrazil.
 

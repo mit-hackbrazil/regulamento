@@ -12,7 +12,7 @@ Abaixo estão listadas as datas mais relevantes da HackBrazil e o que acontecer�
 
 * O [link](https://pt.surveymonkey.com/r/HTRPYCD) para o formulário de inscrição da HackBrazil estará disponível no site.
 
-### 03-09-2018
+### 17-09-2018
 
 `ÚLTIMO DIA DE INSCRIÇÃO`
 

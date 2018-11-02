@@ -6,6 +6,7 @@
 * [Critérios de Avaliação](criterios.md)
 * [Prêmios](premios.md)
 * [Passe Hacker](passe-hacker.md)
+* [Plataforma](plataforma.md)
 * [Cumprimento deste Regulamento](cumprimento-deste-regulamento-e-das-instrucoes-da-organizacao.md)
 * [Responsabilidade Limitada](responsabilidade.md)
 * [Propriedade Intelectual e Direitos Autorais](propriedade-intelectual-direitos.md)

@@ -6,3 +6,5 @@ As equipes inscritas autorizam a HackBrazil, a Brazil Conference e seus respecti
 
 A aceitação online dos termos deste Regulamento pelos participantes, condição prévia para a participação regular na HackBrazil, também implicará na expressa autorização e licenciamento gratuitos, mundiais, livres de pagamento de royalties, por prazo indeterminado à HackBrazil, à Brazil Conference e a seus respectivos Afiliados, para fins de reprodução parcial ou integral, edição, adaptação, tradução para qualquer outro idioma, publicação, transmissão, emissão, distribuição e comunicação ao público por quaisquer meios e em quaisquer formatos de: \(a\) nome, imagem, vídeo e voz dos participantes que poderão ser gravados durante a Competição, a critério da equipe organizadora; e \(b\) divulgação do escopo, conteúdo e funcionalidades dos projetos apresentados pelas equipes inscritas. Os participantes vencedores ou qualquer dos participantes não terão direito ao recebimento de quaisquer valores, seja a que tempo e/ou a que título for, em virtude de qualquer forma de utilização, divulgação e reprodução.
 
+
+

@@ -38,13 +38,9 @@ Infelizmente, não! A HackBrazil exige que os membros da equipe já tenham concl
 
 ## Posso inscrever um projeto sem fins lucrativos?
 
-Sim! Porém, mesmo não sendo um projeto que foque em lucro, a equipe deve mostrar que o projeto é sustentável economicamente, ouu seja, que há um plano de negócios para manter o projeto funcionando.
-
-## Vocês têm exemplos de projetos e pitches anteriores?
-
-[Aqui](https://www.youtube.com/watch?v=qH4unheA9m0&t=80s) estão os pitches dos finalistas da HackBrazil 2018.
+Sim! Porém, mesmo não sendo um projeto que foque em lucro, a equipe deve mostrar que o projeto é sustentável economicamente, ou seja, que há um plano de negócios para manter o projeto funcionando.
 
 ## Eu tenho uma dúvida que não está listada aqui, com quem eu posso falar?
 
-O email da organização da HackBrazil é hackbrazil@mit.edu.
+O email da organização da HackBrazil é [**hackbrazil@brazilconference.org**](mailto:hackbrazil@brazilconference.org)**.**
 

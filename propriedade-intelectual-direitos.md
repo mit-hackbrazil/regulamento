@@ -10,5 +10,8 @@ Os membros das equipes inscritas garantem que respeitam e respeitarão, durante 
 
 As equipes inscritas e seus respectivos membros garantem que nenhum material submetido para fins da Competição conterá vírus, cavalos de tróia, worms, ou quaisquer outros dispositivos causadores de dano.
 
-As equipes inscritas e seus respectivos membros garantem que as informações submetidas sobre cada membro, na etapa de inscrição, são verídicas e correspondem a fatos reais na carreira de cada um.
+As equipes inscritas e seus respectivos membros garantem que as informações submetidas sobre cada membro, na etapa de inscrição, são verídicas e correspondem a fatos reais na carreira de cada um.  
+
+
+
 

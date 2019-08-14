@@ -16,11 +16,11 @@ Durante cada fase, os times participantes serão julgados utilizando uma combina
 
 ### Capacidade de execução
 
-| **Fase** | **Competência** | **Engajamento** | **HackBrazil** | **Comunicação** |
-| :--- | :--- | :--- | :--- | :--- |
-| Primeira Fase: Ideação | ✔ |  | ✔ | ✔ |
-| Segunda Fase: Desenvolvimento | ✔ | ✔ | ✔ | ✔ |
-| Terceira Fase: Pitch | ✔ |  |  | ✔ |
+| **Fase** | **Competência** | **HackBrazil** | **Comunicação** |
+| :--- | :--- | :--- | :--- |
+| Primeira Fase: Ideação | ✔ | ✔ | ✔ |
+| Segunda Fase: Desenvolvimento | ✔ | ✔ | ✔ |
+| Terceira Fase: Pitch | ✔ |  | ✔ |
 
 ### \*\*\*\*
 

@@ -8,7 +8,8 @@
 
 ### A HACK
 
-A **HackBrazil** é uma competição anual de iniciativa da [Brazil Conference at Harvard & MIT](http://www.brazilconference.org/) \("Brazil Conference" ou "Conferência"\). Nossa missão é unir brasileiros dos mais diversos ramos - estejam eles entre os mais habilidosos dos _makers_, os mais criativos dos designers ou os mais apaixonados dos empreendedores - para que possamos fazer a diferença em nosso país. Todos os desafios enfrentados por nossa nação estão em jogo e a HackBrazil pretende auxiliar na aceleração de startups, montagem de protótipos e conexão de pessoas para a busca de soluções concretas.
+A **HackBrazil** é uma competição anual de iniciativa da [Brazil Conference at Harvard & MIT](http://www.brazilconference.org/) \("Brazil Conference" ou "Conferência"\). 
+Nossa missão é desenvolver startups que resolvam grandes problemas Brasileiros através de ideias inovadoras e empreendedoras. Queremos unir brasileiros dos mais diversos ramos - estejam eles entre os mais habilidosos dos _makers_, os mais criativos dos designers ou os mais apaixonados dos empreendedores - para que possamos fazer a diferença em nosso país. Todos os desafios enfrentados por nossa nação estão em jogo e a HackBrazil pretende auxiliar na aceleração de startups, montagem de protótipos e conexão de pessoas para a busca de soluções concretas.
 
 As equipes participantes da HackBrazil terão acesso a mentoria, recursos e, principalmente, contatos \(com outros _hackers_, patrocinadores e parceiros da HackBrazil\).
 
